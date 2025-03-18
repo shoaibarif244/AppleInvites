@@ -40,9 +40,8 @@ A sleek and interactive **invitation app** inspired by Apple's design aesthetics
 
 ## 📷 Screenshots
 
+![Welcome Screen](assets/screenshots/WelcomeScreen.png)
 ![Create Event Screen](assets/screenshots/CreateEventScreen.png)
-![Create Event Screen](assets/screenshots/WelcomeScreen.png)
-
 
 ## 📌 Roadmap
 
